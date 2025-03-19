@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Time",
+    "type": "date",
+    "format": "%d %b %Y %-I:%-M %p"
+   
+  },
+  {
+    "name": "Type",
+    "type": "string"
+  },
+  {
+    "name": "HealthData",
+    "type": "number"
+  }
+]
